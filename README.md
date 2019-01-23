@@ -4,7 +4,7 @@ Collect coins, avoid enemies, and go for the Sword!
 1. Added a new platform with a trap mechanic.
 2. Altered an enemy to create a new enemy skin.
 3. Added a weapon to the new enemy.
-4.Added a new level.
+4. Added a new level.
 5. Added spokes and rotating platforms.
 
 
